@@ -36,6 +36,6 @@ The results are based on a single 80/20 train-test split. Future improvements co
 - Jupyter Notebook
 
 ## Documentation
-- [Project Report](docs/Churn_Prediction_Report.pdf)
-- [Presentation](docs/Churn_Prediction_Presentation.pdf)
+- [Project Report](docs/Churn_Prediction_Report.pdf.pdf)
+- [Presentation](docs/Churn_Prediction_Presentation.pdf.pdf)
   
